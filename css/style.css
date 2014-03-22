@@ -25,6 +25,12 @@ nav a:hover {
 footer ul {
     list-style-type:none:
 }
+
+footer li { color:#FF530D;
+    font-family:sans-serif;
+    font:sans-serif;
+    
+}
     
 footer {
     background-color: #5cb0ff;
